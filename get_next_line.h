@@ -6,7 +6,7 @@
 /*   By: dbaltaza <dbaltaza@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/10/30 14:36:08 by dbaltaza          #+#    #+#             */
-/*   Updated: 2025/10/31 11:54:31 by dbaltaza         ###   ########.fr       */
+/*   Updated: 2025/10/31 18:31:19 by dbaltaza         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,6 @@
 
 # include <stdlib.h>
 # include <unistd.h>
-# include <stdio.h>
 
 # ifndef BUFFER_SIZE
 #  define BUFFER_SIZE 1
