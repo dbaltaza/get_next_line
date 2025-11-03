@@ -1,4 +1,4 @@
-<h1 align="center">Get Next Line 42 Lisboa 📖</h1>
+<h1 align="center">Get Next Line 42 📖</h1>
 
 ```c
             /* ************************************************************************** */
