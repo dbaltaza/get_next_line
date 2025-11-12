@@ -18,7 +18,7 @@
 
 A function that reads a line from a file descriptor, one line at a time.
 
-**Grade:** --/100
+**Grade:** 100/100
 
 ---
 
